@@ -11,7 +11,6 @@ VERSION = 0.1
 PACKAGE_NAME = LaternaMagica
 APP_NAME = LaternaMagica
 LaternaMagica_APPLICATION_ICON = 
-GNUSTEP_INSTALLATION_DIR = $(HOME)/GNUstep
 
 
 #
